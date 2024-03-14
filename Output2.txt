@@ -1,0 +1,40 @@
+int -> Palabra reservada
+
+main -> Identificador
+
+( -> Identificador
+
+) -> Identificador
+
+{ -> Identificador
+
+a -> Identificador
+
+, -> Identificador
+
+b -> Identificador
+
+c -> Identificador
+
+; -> Identificador
+
+= -> Identificador
+
+5 -> Identificador
+
+10 -> Identificador
+
++ -> Identificador
+
+} -> Identificador
+
+i -> Identificador
+
+in -> Identificador
+
+& -> La cadena contiene un caracter no definido en el alfabeto
+
+a,b -> Cadena no valida
+
+# Tokens -> 19
+
